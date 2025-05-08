@@ -1,5 +1,0 @@
-How to run the code:
-1. Install the required packages:
-
-2. Run the script using terminal or command prompt:
-    python -i 1_vis_MYC2_Dash.py
